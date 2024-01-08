@@ -1,0 +1,11 @@
+$ git clone "https://github.com/himedia20231114/Front-End_Source"
+
+git pull origin main
+
+
+
+----------
+myrepo : origin 변수 대신 씀
+
+
+git remote add myrepo "https://github.com/kimseol1017/front_end_New.git"
